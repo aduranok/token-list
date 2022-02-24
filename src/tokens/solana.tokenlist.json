@@ -181,6 +181,22 @@
     },
     {
       "chainId": 101,
+      "address": "Ex4gzHSQ8Y5aGQNHMvXAmSUs2KxFAQ1PcxsTFeZsA4kD",
+      "symbol": "ECO",
+      "name": "Ecoabejas",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/SBPToken/token-list/main/assets/mainnet/Ex4gzHSQ8Y5aGQNHMvXAmSUs2KxFAQ1PcxsTFeZsA4kD/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/",
+        "instagram": "https://instagram.com/",
+        "twitter": "https://twitter.com/"
+      }
+    },    
+    {
+      "chainId": 101,
       "address": "HfYFjMKNZygfMC8LsQ8LtpPsPxEJoXJx4M6tqi75Hajo",
       "symbol": "CWAR",
       "name": "Cryowar Token",
